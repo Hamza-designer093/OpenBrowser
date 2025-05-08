@@ -48,4 +48,8 @@
     <PackageReference Include="System.Reactive" Version="6.0.1" />
   </ItemGroup>
 
+  <Target Name="PostBuild" AfterTargets="PostBuildEvent">
+    <Exec Command="IF &quot;$(ConfigurationName)|$(PlatformName)&quot;==&quot;Release|x64&quot; (&#xD;&#xA;  &quot;$(ProgramFiles)\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\PreEmptiveSolutions\DotfuscatorCE\dotfuscator.exe&quot; &quot;$(ProjectDir)dotfuscator_config.xml&quot;&#xD;&#xA;&#xD;&#xA;  echo 難読化ファイルをコピー中...&#xD;&#xA;  xcopy &quot;$(ProjectDir)bin\x64\Release\Dotfuscated\$(ProjectName).dll&quot; &quot;$(TargetDir)&quot; /y /d&#xD;&#xA;  del /f &quot;$(ProjectDir)bin\x64\Release\Dotfuscated\$(ProjectName).dll&quot;&#xD;&#xA;)&#xD;&#xA;" />
+  </Target>
+
 </Project>
